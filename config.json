@@ -1,0 +1,14 @@
+{
+  "domains": ["r10.net"],
+  "maxPages": 5,
+  "keywordsFile": "keywords.txt",
+  "cookiesFolder": "cookies",
+  "proxiesFile": "proxies.txt",
+  "headless": false,
+  "threads": 10,
+  "browseTime": 60000,
+  "maxClicks": 3,
+  "spreadThreads": true,
+  "timeFrameHours": 6,
+  "executablePath": "auto"
+}
