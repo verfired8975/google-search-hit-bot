@@ -15,16 +15,16 @@
     "seo",
     "clickbot"
   ],
-  "author": "serkankisacom",
+  "author": "verfired8975",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/serkankisacom/google-search-hit-bot.git"
+    "url": "https://github.com/verfired8975/google-search-hit-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/serkankisacom/google-search-hit-bot/issues"
+    "url": "https://github.com/verfired8975/google-search-hit-bot/issues"
   },
-  "homepage": "https://github.com/serkankisacom/google-search-hit-bot#readme",
+  "homepage": "https://github.com/verfired8975/google-search-hit-bot#readme",
   "dependencies": {
     "chalk": "^4.1.2",
     "fs-extra": "^11.3.1",
